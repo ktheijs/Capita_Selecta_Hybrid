@@ -1,0 +1,4 @@
+- mask mapping
+- schieten
+- multiplayer
+- 2 pc multiplayer (client - server)
